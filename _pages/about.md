@@ -6,7 +6,7 @@ subtitle: <div style="margin-bottom:20px; font-family:Georgia, serif" class="mot
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1999 - now </p>
@@ -17,8 +17,6 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-My Name is Eric, Siyang LIU.
 
 - 2021.09 - 2022.06 **Master of Science**, Big Data Technology in Hong Kong Univerity of Science and Technology
 

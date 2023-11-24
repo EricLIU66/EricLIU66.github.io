@@ -14,8 +14,8 @@ profiles:
     content: about.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>A guy interested in Quantitative Finance📈, AGI🤖</p>
-      <p>like card games🃏, photograph📸</p>
-      <p>based in Hong Kong and world citizen</p>
-      <p>world peace🕊️</p>
+      <p>A guy interested in Quantitative Finance 📈, AGI 🤖</p>
+      <p>like card games 🃏, photograph 📸</p>
+      <p>based in Hong Kong 🇭🇰 and world citizen 🌏</p>
+      <p>world peace 🕊️</p>
 ---

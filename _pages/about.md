@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello Everyone, Welcome to my page
+subtitle: <div style="margin-bottom:20px; font-family:Georgia, serif" class="motto"> 'You're not learning anything if you're not making mistakes' - from Charlie Munger</div>
 
 profile:
   align: right

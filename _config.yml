@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:
-first_name: Eric
-middle_name: Siyang
+title: blank
+first_name: Siyang
+middle_name: Eric
 last_name: LIU
 email: sliucw@connect.ust.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -26,6 +26,10 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
+
+# code highlighter theme
+highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -67,11 +71,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: EricLIU66 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: ericcliu6 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: liu-siyang-0a20b7152 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <div style="margin-bottom:20px; font-family:Georgia, serif" class="motto"> 'You're not learning anything if you're not making mistakes' - from Charlie Munger</div>
+subtitle: <div style="margin-bottom:20px; font-family:Georgia, serif" class="motto"> 'You're not learning anything if you're not making mistakes' - Charlie Munger</div>
 
 profile:
   align: right
@@ -24,8 +24,8 @@ My Name is Eric, Siyang LIU.
 
 - 2017.09 - 2022.06 **Bachelor of Science**, Major in Computer Science and Technology, Minor in Applied Mathematic in Hong Kong Baptist University
 
-I am interested in Quantitative Finance 📈, AGI 🤖, Software Development 🧑🏻‍💻
+I am interested in Quantitative Finance📈, AGI🤖, Software Development🧑🏻‍💻
 
 After works I like watching tech videos ▶️, playing card games 🃏, photograph 📸
 
-I based in Hong Kong 🇭🇰 and I hope to be world citizen 🌏.
+I am based in Hong Kong 🇭🇰 and I hope to be world citizen 🌏.

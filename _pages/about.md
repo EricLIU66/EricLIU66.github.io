@@ -24,6 +24,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am interested in Quantitative Finance📈, AGI🤖, Software Development🧑🏻‍💻
 
-After works I like watching tech videos ▶️, playing card games 🃏, photograph 📸
+After works I like playing card games 🃏, photograph 📸
 
 I am based in Hong Kong 🇭🇰 and I hope to be world citizen 🌏.

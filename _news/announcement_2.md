@@ -12,7 +12,29 @@ This is a preview version of self-deployed ChatGPT UI, it used openai-hk as a pr
 
 ## Tutorial to build your own self-deployed ChatGPT UI
 
-will be updated later
+### UI Prepaation
+
+
+
+### API Preparation
+
+**Prepare OPENAI_API_KEY**
+- The official openai api key: get from [official website](https://platform.openai.com/docs/overview)
+- Your openai api proxy, I am using [openai-hk](https://www.openai-hk.com/docs/)
+  - You could support me by registering account using this [link](https://openai-hk.com/?i=5310)
+  - After creating the account and login, you could get your key and start trying
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/openai-hk-get-key.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+  - Copy your key 
+  - If you run out of token, you can add value to your account
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/openai-hk-purchase.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## Further Study
 
